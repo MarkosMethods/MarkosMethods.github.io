@@ -1,0 +1,22 @@
+[
+  {
+    "id": "sample-project-1",
+    "title": "Sample Project: 2D Movement Prototype",
+    "status": "In Progress",
+    "summary": "A small prototype focused on tight movement, coyote time, and jump buffering.",
+    "tags": ["Unity", "Movement", "Prototype"],
+    "github": "https://github.com/MarkosMethods/sample-project-1",
+    "page": "projects/sample-project-1.html",
+    "updated": "2026-01-06"
+  },
+  {
+    "id": "sample-project-2",
+    "title": "Sample Project: Inventory UI",
+    "status": "Planned",
+    "summary": "Exploring UI architecture and a clean item data model.",
+    "tags": ["UI", "Systems", "Design"],
+    "github": "https://github.com/MarkosMethods/sample-project-2",
+    "page": "projects/project-template.html",
+    "updated": "2026-01-01"
+  }
+]

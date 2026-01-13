@@ -1,1 +1,0 @@
-# MarkosMethods.github.io
